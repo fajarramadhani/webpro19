@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV | Muhammad Fajar Ramadhani</title>
+  </head>
+  <body bgcolor="#1A1919" text="#fff">
+    <header>
+      <h1>Curriculum Vitae</h1>
+    </header>
+    <section>
+      <h2>Biodata</h2>
+      <p>Nama : Muhammad Fajar Ramadhani</p>
+      <p>Tempat tanggal lahir : Tangerang, 07 Desember 2001</p>
+      <p>
+        Alamat :JL. Sultan Ageng Tirtayasa NO.65 RT05/09 Kec. Pinang Kel. Kunciran indah Kota Tangerang 15144
+      </p>
+      <p>Agama : Islam</p>
+      <p>Kewarganegaraan : Indonesia</p>
+    </section>
+    <section>
+      <h2>Pendidikan</h2>
+      <ul>
+        <li>
+          <p>SDN KUNCIRAN 07</p>
+          <span style="font-size: 0.8rem">Tangerang</span>
+        </li>
+        <li>
+          <p>SMPN 23 TANGERANG</p>
+          <span style="font-size: 0.8rem">Tangerang</span>
+        </li>
+        <li>
+          <p>SMA MUHAMMADIYAH 02 TANGERANG( TKJ )</p>
+          <span style="font-size: 0.8rem">Tangerang</span>
+        </li>
+        <li>
+          <p>STT TERPADU NURUL FIKRI</p>
+          <span style="font-size: 0.8rem">Jakarta Selatan</span>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h2>Organisasi</h2>
+      <span>Saya mengikuti beberapa organisasi seperti: </span>
+      <ul>
+        <li>OSIS SMP (2015) </li>
+        <li>Ikatan Pelajar Muhammadiyah (2017-2018) </li>
+        <li>Kelompok Ilmiah Remaja(2017-2018)</li>
+        <li>Dewan Ambalan Pramuka (2017-2018)</li>
+        <li>Anggota BEM STT NF (2019-Sekarang) </li>
+      </ul>
+    </section>
+    <section>
+      <h2>Keterampilan</h2>
+      <ul>
+        <li>Menggunakan software perkantoran seperti Ms.Word, Ms.Power point dll</li>
+        <li>Mengedit video melalui pc maupun handphone</li>
+        <li>Mengedit menggunakan software Adobe Premiere, Filmora Studio dll </li>
+        <li>Mendesain sebuah poster menggunakan software Adobe Illustrator</li>
+        <li>Memahami basic HTML/CSS</li>
+      </ul>
+    </section>
+    <footer>
+      <h3>Contact me</h3>
+      <li>
+      <a href="wa.me/+628557234705">08557234705</a>
+         </li>
+      <li> 
+      <a href="muhamadfajarramadhani@gmail.com">muhamadfajarramadhani@gmail.com</a>
+      </li> 
+      </a>
+    </footer>
+  </body>
+</html>
