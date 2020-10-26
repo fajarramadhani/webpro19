@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regristasi Kuliah di STT TERPADU NURUL FIKRI</title>
+    <style>
+        body {
+          font-family: Arial, Helvetica, sans-serif;
+          background-color: rgba(117, 190, 218, 0.5);
+        }
+        
+        * {
+          box-sizing: border-box;
+        }
+        
+        .container {
+          padding: 16px;
+          background-color: white;
+        }
+        
+        input[type=text]{
+          width: 100%;
+          padding: 15px;
+          margin: 5px 0 22px 0;
+          display: inline-block;
+          border: none;
+          background: #f1f1f1;
+        }
+        
+        input[type=text]:focus {
+          background-color: #ddd;
+          outline: none;
+        }
+        
+        hr {
+          border: 1px solid #f1f1f1;
+          margin-bottom: 25px;
+        }
+        
+        .registerbtn {
+          background-color: royalblue;
+          color: white;
+          padding: 16px 20px;
+          margin: 8px 0;
+          border: none;
+          cursor: pointer;
+          width: 100%;
+          opacity: 0.9;
+        }
+        </style>
+</head>
+<body>
+    <form action="contact.php" method="POST">
+        <div class="container">
+            <h2><p>Data Diri</p></h2>
+            <hr>
+        <label for"1name">Nama Lengkap:</label><br>
+        <input type="text" id="1name" name="1name"><br>
+        <label for"ttl">Tanggal Lahir</label>
+        <input type="date" name="ttl"><br>
+        <hr>
+           <h2><p>Informasi Anda</p></h2>
+           <hr>
+        <label for"alamat">Alamat:</label><br>
+        <input type="text" id="alamat" name="alamat"><br>
+        <label for"kota">Asal Kota:</label><br>
+        <input type="text" id="kota" name="kota"><br>
+        <label for"zipcode">Kode Pos:</label><br>
+        <input type="text" id="zipcode" name="zipcode"><br>
+        <label for"gender">Jenis Kelamin:   </label><br>
+        <label><input type="radio" name="gender" value="pria">Pria</label>
+        <label><input type="radio" name="gender" value="wanita">Wanita</label><br>
+        <label for"email">Email:</label><br>
+        <input type="text" id="email"><br>
+        <label for"religion">Agama:</label><br>
+            <select name="religion">
+                <option value="islam">Islam</option>
+                <option value="kristen">Kristen</option>
+                <option value="hindu">Hindu</option>
+                <option value="budha">Budha</option>
+                <option value="atheis">atheis</option>
+            </select><br>
+            <input type="submit" name="submit" value="Daftar" class="registerbtn" />
+        </div>
+    </form>
+</body>
+</html>
