@@ -62,14 +62,21 @@
       </ul>
     </section>
     <footer>
-      <h3>Contact me</h3>
-      <li>
-      <a href="wa.me/+628557234705">08557234705</a>
-         </li>
-      <li> 
-      <a href="muhamadfajarramadhani@gmail.com">muhamadfajarramadhani@gmail.com</a>
-      </li> 
-      </a>
+        <h3><b>Contact me</b></h3>
+        <table border="2">
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+        <td>Whatsapp</td>
+        <td>Email</td>
+        </tr>
+        <tr>
+            <td><a href="wa.me/+628557234705">08557234705</a></td>
+            <td><a href="muhamadfajarramadhani@gmail.com">muhamadfajarramadhani@gmail.com</a></td>
+        </tr>
+    </table>
     </footer>
   </body>
 </html>
